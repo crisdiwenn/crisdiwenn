@@ -44,4 +44,3 @@ I am open to collaborations in:
 
 ---
 
-*Based in Gothenburg, Sweden. Originally from Italy, raised in Sri Lanka.*
