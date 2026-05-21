@@ -15,7 +15,7 @@ I study microbial communities in wastewater treatment systems using metagenomics
 ---
 
 ## Beyond the Lab
-- 🌍 Co-founder of [DreamSpace Biolab](https://dreamspacebiolab.com) — Sri Lanka's first citizen-science lab
+- 🌍 Co-founder of [DreamSpace Biolab](https://dreamspace.academy/pages/5-4-bio-lab.php) — Sri Lanka's first citizen-science lab
 - 🏆 Swedish Institute Scholarship recipient
 
 ---
